@@ -1,0 +1,18 @@
+h2,h1{
+	text-align: center;
+}
+h1{
+	line-height: 200px;
+}
+p{
+	text-indent: 2em;
+}
+.textholder{
+	padding: 10%;
+}
+.but{
+	font-weight: bold;
+	font-family: Helvetica;
+	text-align: center;
+	line-height: 100px;
+}
